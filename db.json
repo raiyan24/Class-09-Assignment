@@ -1,0 +1,207 @@
+{
+    "studentInfo" : [
+        {
+            "roll" : 1,
+            "name" : "Tawseef Raiyan",
+            "age" : 12,
+            "class" : "One",
+            "location" : "Dhaka",
+            "marks" : [
+                {
+                    "Bangla" : 90,
+                    "English" : 85,
+                    "Math" : 95
+                }
+            ]
+        },
+        {
+            "roll" : 2,
+            "name" : "Raisa Tasneem",
+            "age" : 10,
+            "class" : "Two",
+            "location" : "Khulna",
+            "marks" : [
+                {
+                    "Bangla" : 85,
+                    "English" : 75,
+                    "Math" : 65
+                }
+            ]
+        },
+        {
+            "roll" : 3,
+            "name" : "Anisha",
+            "age" : 11,
+            "class" : "One",
+            "location" : "Barishal",
+            "marks" : [
+                {
+                    "Bangla" : 95,
+                    "English" : 87,
+                    "Math" : 100
+                }
+            ]
+        },
+        {
+            "roll" : 4,
+            "name" : "Moushumi",
+            "age" : 15,
+            "class" : "Three",
+            "location" : "Khulna",
+            "marks" : [
+                {
+                    "Bangla" : 90,
+                    "English" : 85,
+                    "Math" : 95
+                }
+            ]
+        },
+        {
+            "roll" : 5,
+            "name" : "Ershad",
+            "age" : 17,
+            "class" : "Five",
+            "location" : "Sylhet",
+            "marks" : [
+                {
+                    "Bangla" : 45,
+                    "English" : 65,
+                    "Math" : 75
+                }
+            ]
+        },
+        {
+            "roll" : 6,
+            "name" : "Emran",
+            "age" : 18,
+            "class" : "Six",
+            "location" : "Chittagong",
+            "marks" : [
+                {
+                    "Bangla" : 45,
+                    "English" : 55,
+                    "Math" : 65
+                }
+            ]
+        },
+        {
+            "roll" : 7,
+            "name" : "Laboni",
+            "age" : 15,
+            "class" : "Five",
+            "location" : "Rangpur",
+            "marks" : [
+                {
+                    "Bangla" : 55,
+                    "English" : 75,
+                    "Math" : 85
+                }
+            ]
+        },
+        {
+            "roll" : 8,
+            "name" : "Ruma",
+            "age" : 19,
+            "class" : "Seven",
+            "location" : "Rajshahi",
+            "marks" : [
+                {
+                    "Bangla" : 85,
+                    "English" : 75,
+                    "Math" : 65
+                }
+            ]
+        },
+        {
+            "roll" : 9,
+            "name" : "Mahbub",
+            "age" : 19,
+            "class" : "Ten",
+            "location" : "Cumilla",
+            "marks" : [
+                {
+                    "Bangla" : 78,
+                    "English" : 88,
+                    "Math" : 99
+                }
+            ]
+        },
+        {
+            "roll" : 10,
+            "name" : "Shaikot",
+            "age" : 21,
+            "class" : "Ten",
+            "location" : "Noakhali",
+            "marks" : [
+                {
+                    "bangla" : 95,
+                    "english" : 85,
+                    "math" : 99
+                }
+            ]
+        }
+    ],
+
+    "teachersInfo" : [
+        {
+            "id" : 1,
+            "name" : "Emran Hasan",
+            "contact number" : "01794430908",
+            "email" : "emranh33@gmail.com"
+        },
+        {
+            "id" : 2,
+            "name" : "Ershad Hasan",
+            "contact number" : "01794430901",
+            "email" : "ershad@gmail.com"
+        },
+        {
+            "id" : 3,
+            "name" : "Mahmudul haque",
+            "contact number" : "01794430902",
+            "email" : "kanon@gmail.com"
+        },
+        {
+            "id" : 4,
+            "name" : "Sirajum Munir",
+            "contact number" : "01794430903",
+            "email" : "munir@gmail.com"
+        },
+        {
+            "id" : 5,
+            "name" : "Mahbubur rahman",
+            "contact number" : "01794430904",
+            "email" : "rahman@gmail.com"
+        },
+        {
+            "id" : 6,
+            "name" : "Nur - E - Modina",
+            "contact number" : "01794430905",
+            "email" : "modina@gmail.com"
+        },
+        {
+            "id" : 7,
+            "name" : "Shamima Shimul",
+            "contact number" : "01794430906",
+            "email" : "shimul@gmail.com"
+        },
+        {
+            "id" : 8,
+            "name" : "Ariful Kabir",
+            "contact number" : "01794430907",
+            "email" : "arif@gmail.com"
+        },
+        {
+            "id" : 9,
+            "name" : "Mamunur Rashid",
+            "contact number" : "01794430909",
+            "email" : "mamun@gmail.com"
+        },
+        {
+            "id" : 10,
+            "name" : "Faisal",
+            "contact number" : "01794430900",
+            "email" : "faisal@gmail.com"
+        }
+    ]
+}
